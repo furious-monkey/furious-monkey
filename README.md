@@ -361,13 +361,6 @@ I already have experience working on a Saas platform, E-commerce, Dynamic websit
   style="padding: 5px"
   algin="center"
 />
-<img
-  src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f400f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
-  alt="webpack"
-  width="40"
-  style="padding: 5px"
-  algin="center"
-/>
 </p>
 
 ---
