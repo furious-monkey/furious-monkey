@@ -11,28 +11,364 @@ I already have experience working on a Saas platform, E-commerce, Dynamic websit
 ### 💻 Languages, Frameworks, Tools
 
 <p float="left">
- <img style="padding:5px;" align="center" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img style="padding:5px;" align="center" alt="ReactJs" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img style="padding:5px;" align="center" alt="Angular" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
-<img style="padding:5px;" align="center" alt="Vue" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
-<img style="padding:5px;" align="center" alt="HTML" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img style="padding:5px;" align="center" alt="CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img style="padding:5px;" align="center" alt="BootStrap" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
-<img style="padding:5px;" align="center" alt="Material-Design" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/material-design/material-design.png">
-<img style="padding:5px;" align="center" alt="Tailwind CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png">
-<img style="padding:5px;" align="center" alt="NodeJS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-<img style="padding:5px;" align="center" alt="Laravel" width="35px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"> 
-<img style="padding:5px;" align="center" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img style="padding:5px;" align="center" alt="Django" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"> 
-<img style="padding:5px;" align="center" alt="GraphQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png">
-<img style="padding:5px;" align="center" alt="Firebase" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
-<img style="padding:5px;" align="center" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
-<img style="padding:5px;" align="center" alt="Docker" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
-<img style="padding:5px;" align="center" alt="Kubernetes" width="35px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png">
-<img style="padding:5px;" align="center" alt="AWS" width="35px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png">
-<img style="padding:5px;" align="center" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img style="padding:5px;" align="center" alt="VS Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-<img style="padding:5px;" align="center" alt="Ubuntu" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">
+<img
+  src="https://angular.io/assets/images/logos/angular/angular.svg"
+  alt="angular"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"
+  alt="angularjs"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+  alt="aws"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
+  alt="azure"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
+  alt="babel"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg"
+  alt="backbonejs"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
+  alt="blender"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+  alt="bootstrap"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+  alt="css3"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://cdn.worldvectorlogo.com/logos/django.svg"
+  alt="django"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+  alt="docker"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+  alt="express"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+  alt="figma"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+  alt="firebase"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
+  alt="flutter"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+  alt="git"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+  alt="go"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
+  alt="graphql"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg"
+  alt="gulp"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+  alt="html5"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+  alt="javascript"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
+  alt="jenkins"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
+  alt="jest"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"
+  alt="kafka"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
+  alt="kubernetes"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+  alt="linux"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"
+  alt="mocha"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+  alt="mongodb"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+  alt="mysql"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
+  alt="nestjs"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+  alt="nextjs"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
+  alt="nginx"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+  alt="nodejs"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"
+  alt="nuxtjs"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+  alt="photoshop"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+  alt="php"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+  alt="postgresql"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+  alt="postman"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+  alt="python"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"
+  alt="rabbitMQ"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+  alt="react"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://reactnative.dev/img/header_logo.svg"
+  alt="reactnative"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
+  alt="redis"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+  alt="redux"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+  alt="sass"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"
+  alt="swift"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+  alt="tailwind"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+  alt="typescript"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
+  alt="vuejs"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://bestofjs.org/logos/vuetify.svg"
+  alt="vuetify"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
+  alt="webpack"
+  width="35"
+  style="padding: 5px"
+  algin="center"
+/>
+
 </p>
 
 ---
