@@ -3,8 +3,11 @@
 ### Hi there 👋
 
 As a ✨lead frontend developer✨ with 9+ years of hands-on experience, spearheaded development and maintenance of 20+ scalable websites and SaaS applications using React, React Native, Angular, Vue.js, TypeScript, HTML5, and CSS, optimized site performance, and achieved 99% accessibility compliance.
-💪Consistently created pixel-perfect UIs with accessible, reusable, and performant code, improved user experience, and increased page load speeds.
+
+💪Created pixel-perfect UIs with accessible, reusable, and performant code, improved user experience, and increased page load speeds.
+
 💪Thrive in a collaborative environment and share knowledge with colleagues, resulting in optimized workflows and faster project deliveries.
+
 💪Has good emotional intelligence and responsiveness, leading to a high level of client satisfaction and longlasting relationships with clients.
 
 
